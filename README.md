@@ -33,7 +33,7 @@ See [LICENSE](./LICENSE) for details.
 Independent Theoretical Physicist  
 Portland, Oregon
 
-For questions or collaborations, please contact via GitHub or via Zenodo correspondence.
+For questions or collaborations, please contact via email, GitHub, or via Zenodo correspondence.
 
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
